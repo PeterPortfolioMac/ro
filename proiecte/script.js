@@ -1,4 +1,4 @@
-gsap.registerPlugin(Flip);
+
 
 const state = Flip.getState(document.querySelectorAll(".card"));
 document.querySelector("#searchForm").addEventListener("submit", (e) => {
